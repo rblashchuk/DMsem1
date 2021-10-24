@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "a634686da8d8d813",
+    "type": "split",
+    "children": [
+      {
+        "id": "476b0de35687e223",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Функциональное отношение.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dfd968300f535094",
+    "type": "split",
+    "children": [
+      {
+        "id": "077c91322f87b713",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "829e12a77b93d6fc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "077d6ae818475dd6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#beg",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7bb6048c37367958",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2d07afa26ee0807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b88f296deb06c491",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Функциональное отношение.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "476b0de35687e223",
+  "lastOpenFiles": [
+    "Функциональное отношение.md",
+    "Свойства операций над множествами.md",
+    "Свойство поглощения.md",
+    "Множество.md",
+    "Отношение строгого порядка.md",
+    "Отношение нестрогого порядка.md",
+    "Частично упорядоченное множество.md",
+    "Свойства отношений.md",
+    "Отношение на множествах.md",
+    "Операции над множествами.md"
+  ]
+}
